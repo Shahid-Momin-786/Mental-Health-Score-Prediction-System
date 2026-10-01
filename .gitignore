@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Dev / local-only files
+main.py
+generate_report.py
+student-mental-health/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
